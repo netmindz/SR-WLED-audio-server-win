@@ -1,1 +1,9 @@
 /GitExtensions.settings
+
+# Python (tools/)
+__pycache__/
+*.pyc
+
+# tools/compare_wled.py and tools/run_test_matrix.py output
+/wled-compare-*/
+/results-*/
